@@ -1,2 +1,3 @@
 # hello-world
-my first reepository
+
+I like git my super buper krutyk
